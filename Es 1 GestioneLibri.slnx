@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/doc/" />
+  <Folder Name="/src/">
+    <Project Path="src/Es1GestioneLibri.Console/Es1GestioneLibri.Console.csproj" Id="1bcd1023-7f61-4116-8c0f-06549b77ee1b" />
+    <Project Path="src/Es1GestioneLibri.Domain/Es1GestioneLibri.Domain.csproj" Id="9a9e0a41-9458-4310-b151-b21443a15e8f" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
